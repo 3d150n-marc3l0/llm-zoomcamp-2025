@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+01-intro/.ipynb_checkpoints
+01-intro/elastic-search-info.json
