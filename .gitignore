@@ -176,3 +176,8 @@ cython_debug/
 
 01-intro/.ipynb_checkpoints
 01-intro/elastic-search-info.json
+
+02-vector-search/.ipynb_checkpoints
+02-vector-search/qdrant_storage
+
+hw02env
