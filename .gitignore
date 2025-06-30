@@ -179,5 +179,6 @@ cython_debug/
 
 02-vector-search/.ipynb_checkpoints
 02-vector-search/qdrant_storage
+02-vector-search/sematic_search.ipynb
 
 hw02env
