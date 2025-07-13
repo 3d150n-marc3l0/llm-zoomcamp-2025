@@ -182,3 +182,12 @@ cython_debug/
 02-vector-search/sematic_search.ipynb
 
 hw02env
+
+
+workshops/dlt/db.qdrant
+workshops/dlt/.ipynb_checkpoints
+workshops/dlt/.env
+workshops/dlt/*.json
+workshops/dlt/*.py
+workshops/dlt/*.owl
+workshops/dlt/search_knowledge_graph.ipynb
