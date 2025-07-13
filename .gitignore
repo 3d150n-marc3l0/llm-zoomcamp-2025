@@ -191,3 +191,4 @@ workshops/dlt/*.json
 workshops/dlt/*.py
 workshops/dlt/*.owl
 workshops/dlt/search_knowledge_graph.ipynb
+.dltenv/
