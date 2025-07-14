@@ -192,3 +192,7 @@ workshops/dlt/*.py
 workshops/dlt/*.owl
 workshops/dlt/search_knowledge_graph.ipynb
 .dltenv/
+
+0a-agents/.ipynb_checkpoints
+0a-agents/*.text
+.0aenv/
