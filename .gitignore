@@ -196,3 +196,7 @@ workshops/dlt/search_knowledge_graph.ipynb
 0a-agents/.ipynb_checkpoints
 0a-agents/*.text
 .0aenv/
+
+
+03-evaluation/.ipynb_checkpoints/
+.03evaenv
